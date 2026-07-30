@@ -1,0 +1,1986 @@
+{
+  "regions": [
+    "Andhra Pradesh",
+    "Arunachal Pradesh",
+    "Assam",
+    "Bihar",
+    "Chhattisgarh",
+    "Goa",
+    "Gujarat",
+    "Haryana",
+    "Himachal Pradesh",
+    "Jharkhand",
+    "Karnataka",
+    "Kerala",
+    "Madhya Pradesh",
+    "Maharashtra",
+    "Manipur",
+    "Meghalaya",
+    "Mizoram",
+    "Nagaland",
+    "Odisha",
+    "Punjab",
+    "Rajasthan",
+    "Sikkim",
+    "Tamil Nadu",
+    "Telangana",
+    "Tripura",
+    "Uttar Pradesh",
+    "Uttarakhand",
+    "West Bengal",
+    "Andaman and Nicobar Islands",
+    "Chandigarh",
+    "Dadra and Nagar Haveli and Daman and Diu",
+    "Delhi",
+    "Jammu and Kashmir",
+    "Ladakh",
+    "Lakshadweep",
+    "Puducherry"
+  ],
+  "places": [
+    {
+      "id": 1,
+      "name": "Tirupati Balaji Temple",
+      "slug": "tirupati-balaji-temple",
+      "category": "Temple",
+      "state": "Andhra Pradesh",
+      "district": "Tirupati",
+      "latitude": 13.6833,
+      "longitude": 79.347,
+      "best_season": "All year",
+      "description": "Major Hindu pilgrimage destination in the Tirumala hills.",
+      "full_description": "Major Hindu pilgrimage destination in the Tirumala hills. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.5,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Visakhapatnam Beach",
+      "slug": "visakhapatnam-beach",
+      "category": "Beach",
+      "state": "Andhra Pradesh",
+      "district": "Visakhapatnam",
+      "latitude": 17.6868,
+      "longitude": 83.2185,
+      "best_season": "Winter",
+      "description": "Coastal destination known for beaches, hills, museums and seafood.",
+      "full_description": "Coastal destination known for beaches, hills, museums and seafood. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.6,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Tawang Monastery",
+      "slug": "tawang-monastery",
+      "category": "Monastery",
+      "state": "Arunachal Pradesh",
+      "district": "Tawang",
+      "latitude": 27.5861,
+      "longitude": 91.8594,
+      "best_season": "Summer",
+      "description": "One of India's largest Buddhist monasteries, surrounded by Himalayan scenery.",
+      "full_description": "One of India's largest Buddhist monasteries, surrounded by Himalayan scenery. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.7,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Ziro Valley",
+      "slug": "ziro-valley",
+      "category": "Hill Station",
+      "state": "Arunachal Pradesh",
+      "district": "Lower Subansiri",
+      "latitude": 27.594,
+      "longitude": 93.828,
+      "best_season": "Summer",
+      "description": "Scenic valley known for rice fields, tribal culture and music.",
+      "full_description": "Scenic valley known for rice fields, tribal culture and music. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.8,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Kaziranga National Park",
+      "slug": "kaziranga-national-park",
+      "category": "National Park",
+      "state": "Assam",
+      "district": "Golaghat",
+      "latitude": 26.5775,
+      "longitude": 93.1711,
+      "best_season": "Winter",
+      "description": "UNESCO-listed park famous for one-horned rhinoceroses.",
+      "full_description": "UNESCO-listed park famous for one-horned rhinoceroses. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.4,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Majuli Island",
+      "slug": "majuli-island",
+      "category": "Culture",
+      "state": "Assam",
+      "district": "Majuli",
+      "latitude": 27.0016,
+      "longitude": 94.2243,
+      "best_season": "Winter",
+      "description": "River island known for Assamese monasteries, crafts and culture.",
+      "full_description": "River island known for Assamese monasteries, crafts and culture. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.5,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Mahabodhi Temple",
+      "slug": "mahabodhi-temple",
+      "category": "Temple",
+      "state": "Bihar",
+      "district": "Gaya",
+      "latitude": 24.6959,
+      "longitude": 84.991,
+      "best_season": "Winter",
+      "description": "UNESCO World Heritage Buddhist pilgrimage site at Bodh Gaya.",
+      "full_description": "UNESCO World Heritage Buddhist pilgrimage site at Bodh Gaya. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.6,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Nalanda Ruins",
+      "slug": "nalanda-ruins",
+      "category": "Heritage",
+      "state": "Bihar",
+      "district": "Nalanda",
+      "latitude": 25.1367,
+      "longitude": 85.4437,
+      "best_season": "Winter",
+      "description": "Ancient centre of learning and archaeological heritage.",
+      "full_description": "Ancient centre of learning and archaeological heritage. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.7,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Chitrakote Falls",
+      "slug": "chitrakote-falls",
+      "category": "Waterfall",
+      "state": "Chhattisgarh",
+      "district": "Bastar",
+      "latitude": 19.207,
+      "longitude": 81.7,
+      "best_season": "Monsoon",
+      "description": "A wide horseshoe-shaped waterfall on the Indravati River.",
+      "full_description": "A wide horseshoe-shaped waterfall on the Indravati River. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.8,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Kanger Valley National Park",
+      "slug": "kanger-valley-national-park",
+      "category": "National Park",
+      "state": "Chhattisgarh",
+      "district": "Bastar",
+      "latitude": 18.7785,
+      "longitude": 81.93,
+      "best_season": "Winter",
+      "description": "Forest reserve known for caves, waterfalls and biodiversity.",
+      "full_description": "Forest reserve known for caves, waterfalls and biodiversity. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.4,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Baga Beach",
+      "slug": "baga-beach",
+      "category": "Beach",
+      "state": "Goa",
+      "district": "North Goa",
+      "latitude": 15.5553,
+      "longitude": 73.7517,
+      "best_season": "Winter",
+      "description": "Popular beach with water sports, nightlife and nearby resorts.",
+      "full_description": "Popular beach with water sports, nightlife and nearby resorts. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.5,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Basilica of Bom Jesus",
+      "slug": "basilica-of-bom-jesus",
+      "category": "Heritage",
+      "state": "Goa",
+      "district": "North Goa",
+      "latitude": 15.5009,
+      "longitude": 73.9116,
+      "best_season": "Winter",
+      "description": "UNESCO-listed church in Old Goa.",
+      "full_description": "UNESCO-listed church in Old Goa. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.6,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Statue of Unity",
+      "slug": "statue-of-unity",
+      "category": "Landmark",
+      "state": "Gujarat",
+      "district": "Narmada",
+      "latitude": 21.838,
+      "longitude": 73.7191,
+      "best_season": "Winter",
+      "description": "Monument overlooking the Narmada River and surrounding attractions.",
+      "full_description": "Monument overlooking the Narmada River and surrounding attractions. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.7,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Rann of Kutch",
+      "slug": "rann-of-kutch",
+      "category": "Desert",
+      "state": "Gujarat",
+      "district": "Kutch",
+      "latitude": 23.7337,
+      "longitude": 69.8597,
+      "best_season": "Winter",
+      "description": "Salt desert known for the Rann Utsav and cultural experiences.",
+      "full_description": "Salt desert known for the Rann Utsav and cultural experiences. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.8,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Sultanpur National Park",
+      "slug": "sultanpur-national-park",
+      "category": "National Park",
+      "state": "Haryana",
+      "district": "Gurugram",
+      "latitude": 28.4595,
+      "longitude": 76.8908,
+      "best_season": "Winter",
+      "description": "Bird sanctuary and wetland near Delhi NCR.",
+      "full_description": "Bird sanctuary and wetland near Delhi NCR. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.4,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Kurukshetra",
+      "slug": "kurukshetra",
+      "category": "Pilgrimage",
+      "state": "Haryana",
+      "district": "Kurukshetra",
+      "latitude": 29.9695,
+      "longitude": 76.8783,
+      "best_season": "Winter",
+      "description": "Historic religious destination associated with the Mahabharata.",
+      "full_description": "Historic religious destination associated with the Mahabharata. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.5,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Manali",
+      "slug": "manali",
+      "category": "Hill Station",
+      "state": "Himachal Pradesh",
+      "district": "Kullu",
+      "latitude": 32.2396,
+      "longitude": 77.1887,
+      "best_season": "All year",
+      "description": "Mountain destination for snow, adventure and scenic valleys.",
+      "full_description": "Mountain destination for snow, adventure and scenic valleys. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.6,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Shimla",
+      "slug": "shimla",
+      "category": "Hill Station",
+      "state": "Himachal Pradesh",
+      "district": "Shimla",
+      "latitude": 31.1048,
+      "longitude": 77.1734,
+      "best_season": "All year",
+      "description": "Popular Himalayan hill city with colonial architecture.",
+      "full_description": "Popular Himalayan hill city with colonial architecture. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.7,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Dassam Falls",
+      "slug": "dassam-falls",
+      "category": "Waterfall",
+      "state": "Jharkhand",
+      "district": "Ranchi",
+      "latitude": 23.1443,
+      "longitude": 85.4679,
+      "best_season": "Monsoon",
+      "description": "Scenic waterfall near Ranchi.",
+      "full_description": "Scenic waterfall near Ranchi. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.8,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Betla National Park",
+      "slug": "betla-national-park",
+      "category": "National Park",
+      "state": "Jharkhand",
+      "district": "Latehar",
+      "latitude": 23.8876,
+      "longitude": 84.1904,
+      "best_season": "Winter",
+      "description": "Forest reserve in the Chotanagpur plateau.",
+      "full_description": "Forest reserve in the Chotanagpur plateau. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.4,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Hampi",
+      "slug": "hampi",
+      "category": "Heritage",
+      "state": "Karnataka",
+      "district": "Vijayanagara",
+      "latitude": 15.335,
+      "longitude": 76.46,
+      "best_season": "Winter",
+      "description": "UNESCO-listed ruins of the Vijayanagara Empire.",
+      "full_description": "UNESCO-listed ruins of the Vijayanagara Empire. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.5,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Mysore Palace",
+      "slug": "mysore-palace",
+      "category": "Palace",
+      "state": "Karnataka",
+      "district": "Mysuru",
+      "latitude": 12.3052,
+      "longitude": 76.6552,
+      "best_season": "All year",
+      "description": "Grand royal palace famous for illuminated evenings.",
+      "full_description": "Grand royal palace famous for illuminated evenings. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.6,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Munnar",
+      "slug": "munnar",
+      "category": "Hill Station",
+      "state": "Kerala",
+      "district": "Idukki",
+      "latitude": 10.0889,
+      "longitude": 77.0595,
+      "best_season": "All year",
+      "description": "Tea gardens, misty hills, waterfalls and wildlife.",
+      "full_description": "Tea gardens, misty hills, waterfalls and wildlife. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.7,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Alappuzha Backwaters",
+      "slug": "alappuzha-backwaters",
+      "category": "Backwater",
+      "state": "Kerala",
+      "district": "Alappuzha",
+      "latitude": 9.4981,
+      "longitude": 76.3388,
+      "best_season": "Winter",
+      "description": "Houseboat destination through Kerala's backwaters.",
+      "full_description": "Houseboat destination through Kerala's backwaters. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.8,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Khajuraho Temples",
+      "slug": "khajuraho-temples",
+      "category": "Temple",
+      "state": "Madhya Pradesh",
+      "district": "Chhatarpur",
+      "latitude": 24.8318,
+      "longitude": 79.9199,
+      "best_season": "Winter",
+      "description": "UNESCO-listed temple complex known for detailed sculpture.",
+      "full_description": "UNESCO-listed temple complex known for detailed sculpture. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.4,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Kanha National Park",
+      "slug": "kanha-national-park",
+      "category": "National Park",
+      "state": "Madhya Pradesh",
+      "district": "Mandla",
+      "latitude": 22.3345,
+      "longitude": 80.6115,
+      "best_season": "Winter",
+      "description": "Tiger reserve with sal forests and grasslands.",
+      "full_description": "Tiger reserve with sal forests and grasslands. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.5,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Gateway of India",
+      "slug": "gateway-of-india",
+      "category": "Landmark",
+      "state": "Maharashtra",
+      "district": "Mumbai",
+      "latitude": 18.922,
+      "longitude": 72.8347,
+      "best_season": "Winter",
+      "description": "Historic waterfront monument in South Mumbai.",
+      "full_description": "Historic waterfront monument in South Mumbai. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.6,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Ajanta Caves",
+      "slug": "ajanta-caves",
+      "category": "Cave",
+      "state": "Maharashtra",
+      "district": "Chhatrapati Sambhajinagar",
+      "latitude": 20.5519,
+      "longitude": 75.7033,
+      "best_season": "Winter",
+      "description": "UNESCO-listed Buddhist rock-cut caves and paintings.",
+      "full_description": "UNESCO-listed Buddhist rock-cut caves and paintings. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.7,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Loktak Lake",
+      "slug": "loktak-lake",
+      "category": "Lake",
+      "state": "Manipur",
+      "district": "Bishnupur",
+      "latitude": 24.559,
+      "longitude": 93.777,
+      "best_season": "Winter",
+      "description": "Freshwater lake known for floating phumdis.",
+      "full_description": "Freshwater lake known for floating phumdis. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.8,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Kangla Fort",
+      "slug": "kangla-fort",
+      "category": "Fort",
+      "state": "Manipur",
+      "district": "Imphal West",
+      "latitude": 24.8074,
+      "longitude": 93.9384,
+      "best_season": "All year",
+      "description": "Historic royal fort complex in Imphal.",
+      "full_description": "Historic royal fort complex in Imphal. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.4,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1599661046827-dacde6976549?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Living Root Bridges",
+      "slug": "living-root-bridges",
+      "category": "Nature",
+      "state": "Meghalaya",
+      "district": "East Khasi Hills",
+      "latitude": 25.184,
+      "longitude": 91.702,
+      "best_season": "Winter",
+      "description": "Unique bridges grown from living tree roots.",
+      "full_description": "Unique bridges grown from living tree roots. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.5,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Dawki River",
+      "slug": "dawki-river",
+      "category": "River",
+      "state": "Meghalaya",
+      "district": "West Jaintia Hills",
+      "latitude": 25.1842,
+      "longitude": 92.0248,
+      "best_season": "Winter",
+      "description": "Clear-water river and border tourism destination.",
+      "full_description": "Clear-water river and border tourism destination. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.6,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Vantawng Falls",
+      "slug": "vantawng-falls",
+      "category": "Waterfall",
+      "state": "Mizoram",
+      "district": "Serchhip",
+      "latitude": 23.539,
+      "longitude": 92.65,
+      "best_season": "Monsoon",
+      "description": "Tall waterfall surrounded by bamboo forest.",
+      "full_description": "Tall waterfall surrounded by bamboo forest. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.7,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Reiek",
+      "slug": "reiek",
+      "category": "Hill Station",
+      "state": "Mizoram",
+      "district": "Mamit",
+      "latitude": 23.683,
+      "longitude": 92.614,
+      "best_season": "Winter",
+      "description": "Hill destination with panoramic views and village culture.",
+      "full_description": "Hill destination with panoramic views and village culture. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.8,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Dzukou Valley",
+      "slug": "dzukou-valley",
+      "category": "Valley",
+      "state": "Nagaland",
+      "district": "Kohima",
+      "latitude": 25.558,
+      "longitude": 94.05,
+      "best_season": "Summer",
+      "description": "High-altitude valley famous for trekking and seasonal flowers.",
+      "full_description": "High-altitude valley famous for trekking and seasonal flowers. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.4,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Kisama Heritage Village",
+      "slug": "kisama-heritage-village",
+      "category": "Culture",
+      "state": "Nagaland",
+      "district": "Kohima",
+      "latitude": 25.594,
+      "longitude": 94.114,
+      "best_season": "Winter",
+      "description": "Venue of the Hornbill Festival and Naga cultural exhibits.",
+      "full_description": "Venue of the Hornbill Festival and Naga cultural exhibits. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.5,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Jagannath Temple",
+      "slug": "jagannath-temple",
+      "category": "Temple",
+      "state": "Odisha",
+      "district": "Puri",
+      "latitude": 19.8049,
+      "longitude": 85.8172,
+      "best_season": "Winter",
+      "description": "Major pilgrimage temple in Puri.",
+      "full_description": "Major pilgrimage temple in Puri. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.6,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Konark Sun Temple",
+      "slug": "konark-sun-temple",
+      "category": "Temple",
+      "state": "Odisha",
+      "district": "Puri",
+      "latitude": 19.8876,
+      "longitude": 86.0945,
+      "best_season": "Winter",
+      "description": "UNESCO-listed temple shaped like a stone chariot.",
+      "full_description": "UNESCO-listed temple shaped like a stone chariot. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.7,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Golden Temple",
+      "slug": "golden-temple",
+      "category": "Temple",
+      "state": "Punjab",
+      "district": "Amritsar",
+      "latitude": 31.62,
+      "longitude": 74.8765,
+      "best_season": "All year",
+      "description": "Sacred Sikh shrine known for its golden sanctum and community kitchen.",
+      "full_description": "Sacred Sikh shrine known for its golden sanctum and community kitchen. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.8,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Jallianwala Bagh",
+      "slug": "jallianwala-bagh",
+      "category": "Heritage",
+      "state": "Punjab",
+      "district": "Amritsar",
+      "latitude": 31.6206,
+      "longitude": 74.88,
+      "best_season": "All year",
+      "description": "National memorial associated with India's freedom struggle.",
+      "full_description": "National memorial associated with India's freedom struggle. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.4,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Amber Fort",
+      "slug": "amber-fort",
+      "category": "Fort",
+      "state": "Rajasthan",
+      "district": "Jaipur",
+      "latitude": 26.9855,
+      "longitude": 75.8513,
+      "best_season": "Winter",
+      "description": "Hilltop fort known for Rajput architecture.",
+      "full_description": "Hilltop fort known for Rajput architecture. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.5,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1599661046827-dacde6976549?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Jaisalmer Fort",
+      "slug": "jaisalmer-fort",
+      "category": "Fort",
+      "state": "Rajasthan",
+      "district": "Jaisalmer",
+      "latitude": 26.9124,
+      "longitude": 70.9126,
+      "best_season": "Winter",
+      "description": "Living desert fort made from golden sandstone.",
+      "full_description": "Living desert fort made from golden sandstone. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.6,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1599661046827-dacde6976549?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Tsomgo Lake",
+      "slug": "tsomgo-lake",
+      "category": "Lake",
+      "state": "Sikkim",
+      "district": "Gangtok",
+      "latitude": 27.3742,
+      "longitude": 88.7617,
+      "best_season": "Summer",
+      "description": "Glacial lake on the route toward Nathula Pass.",
+      "full_description": "Glacial lake on the route toward Nathula Pass. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.7,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Rumtek Monastery",
+      "slug": "rumtek-monastery",
+      "category": "Monastery",
+      "state": "Sikkim",
+      "district": "Gangtok",
+      "latitude": 27.289,
+      "longitude": 88.561,
+      "best_season": "All year",
+      "description": "Important Tibetan Buddhist monastery near Gangtok.",
+      "full_description": "Important Tibetan Buddhist monastery near Gangtok. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.8,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Meenakshi Amman Temple",
+      "slug": "meenakshi-amman-temple",
+      "category": "Temple",
+      "state": "Tamil Nadu",
+      "district": "Madurai",
+      "latitude": 9.9195,
+      "longitude": 78.1193,
+      "best_season": "Winter",
+      "description": "Historic temple complex famous for colourful gopurams.",
+      "full_description": "Historic temple complex famous for colourful gopurams. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.4,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Mahabalipuram",
+      "slug": "mahabalipuram",
+      "category": "Heritage",
+      "state": "Tamil Nadu",
+      "district": "Chengalpattu",
+      "latitude": 12.6269,
+      "longitude": 80.1927,
+      "best_season": "Winter",
+      "description": "UNESCO-listed shore temples and rock-cut monuments.",
+      "full_description": "UNESCO-listed shore temples and rock-cut monuments. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.5,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Charminar",
+      "slug": "charminar",
+      "category": "Landmark",
+      "state": "Telangana",
+      "district": "Hyderabad",
+      "latitude": 17.3616,
+      "longitude": 78.4747,
+      "best_season": "Winter",
+      "description": "Iconic four-minaret monument in Hyderabad's old city.",
+      "full_description": "Iconic four-minaret monument in Hyderabad's old city. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.6,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Ramappa Temple",
+      "slug": "ramappa-temple",
+      "category": "Temple",
+      "state": "Telangana",
+      "district": "Mulugu",
+      "latitude": 18.2593,
+      "longitude": 79.9436,
+      "best_season": "Winter",
+      "description": "UNESCO-listed Kakatiya-era temple.",
+      "full_description": "UNESCO-listed Kakatiya-era temple. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.7,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Ujjayanta Palace",
+      "slug": "ujjayanta-palace",
+      "category": "Palace",
+      "state": "Tripura",
+      "district": "West Tripura",
+      "latitude": 23.8315,
+      "longitude": 91.282,
+      "best_season": "Winter",
+      "description": "Former royal palace and state museum in Agartala.",
+      "full_description": "Former royal palace and state museum in Agartala. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.8,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Neermahal",
+      "slug": "neermahal",
+      "category": "Palace",
+      "state": "Tripura",
+      "district": "Sepahijala",
+      "latitude": 23.4968,
+      "longitude": 91.3304,
+      "best_season": "Winter",
+      "description": "Lake palace in the middle of Rudrasagar Lake.",
+      "full_description": "Lake palace in the middle of Rudrasagar Lake. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.4,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Taj Mahal",
+      "slug": "taj-mahal",
+      "category": "Heritage",
+      "state": "Uttar Pradesh",
+      "district": "Agra",
+      "latitude": 27.1751,
+      "longitude": 78.0421,
+      "best_season": "Winter",
+      "description": "UNESCO-listed Mughal mausoleum and global landmark.",
+      "full_description": "UNESCO-listed Mughal mausoleum and global landmark. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.5,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Varanasi Ghats",
+      "slug": "varanasi-ghats",
+      "category": "Pilgrimage",
+      "state": "Uttar Pradesh",
+      "district": "Varanasi",
+      "latitude": 25.3176,
+      "longitude": 82.9739,
+      "best_season": "Winter",
+      "description": "Ancient spiritual riverfront famous for Ganga Aarti.",
+      "full_description": "Ancient spiritual riverfront famous for Ganga Aarti. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.6,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Valley of Flowers",
+      "slug": "valley-of-flowers",
+      "category": "National Park",
+      "state": "Uttarakhand",
+      "district": "Chamoli",
+      "latitude": 30.728,
+      "longitude": 79.6053,
+      "best_season": "Monsoon",
+      "description": "UNESCO-listed Himalayan national park with alpine flowers.",
+      "full_description": "UNESCO-listed Himalayan national park with alpine flowers. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.7,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Kedarnath Temple",
+      "slug": "kedarnath-temple",
+      "category": "Temple",
+      "state": "Uttarakhand",
+      "district": "Rudraprayag",
+      "latitude": 30.7352,
+      "longitude": 79.0669,
+      "best_season": "Summer",
+      "description": "High-altitude Shiva temple and Char Dham pilgrimage.",
+      "full_description": "High-altitude Shiva temple and Char Dham pilgrimage. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.8,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Victoria Memorial",
+      "slug": "victoria-memorial",
+      "category": "Museum",
+      "state": "West Bengal",
+      "district": "Kolkata",
+      "latitude": 22.5448,
+      "longitude": 88.3426,
+      "best_season": "Winter",
+      "description": "Marble monument and museum in Kolkata.",
+      "full_description": "Marble monument and museum in Kolkata. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.4,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Sundarbans National Park",
+      "slug": "sundarbans-national-park",
+      "category": "National Park",
+      "state": "West Bengal",
+      "district": "South 24 Parganas",
+      "latitude": 21.9497,
+      "longitude": 88.8926,
+      "best_season": "Winter",
+      "description": "Mangrove tiger reserve and UNESCO World Heritage Site.",
+      "full_description": "Mangrove tiger reserve and UNESCO World Heritage Site. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.5,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Radhanagar Beach",
+      "slug": "radhanagar-beach",
+      "category": "Beach",
+      "state": "Andaman and Nicobar Islands",
+      "district": "South Andaman",
+      "latitude": 11.9845,
+      "longitude": 92.9508,
+      "best_season": "Winter",
+      "description": "White-sand beach on Havelock Island.",
+      "full_description": "White-sand beach on Havelock Island. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.6,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Cellular Jail",
+      "slug": "cellular-jail",
+      "category": "Heritage",
+      "state": "Andaman and Nicobar Islands",
+      "district": "South Andaman",
+      "latitude": 11.6743,
+      "longitude": 92.7477,
+      "best_season": "Winter",
+      "description": "National memorial connected to India's freedom struggle.",
+      "full_description": "National memorial connected to India's freedom struggle. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.7,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Rock Garden",
+      "slug": "rock-garden",
+      "category": "Garden",
+      "state": "Chandigarh",
+      "district": "Chandigarh",
+      "latitude": 30.7525,
+      "longitude": 76.807,
+      "best_season": "Winter",
+      "description": "Sculpture garden created from recycled materials.",
+      "full_description": "Sculpture garden created from recycled materials. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.8,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Sukhna Lake",
+      "slug": "sukhna-lake",
+      "category": "Lake",
+      "state": "Chandigarh",
+      "district": "Chandigarh",
+      "latitude": 30.7421,
+      "longitude": 76.8188,
+      "best_season": "Winter",
+      "description": "Popular urban lake for walking, boating and birdwatching.",
+      "full_description": "Popular urban lake for walking, boating and birdwatching. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.4,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Diu Fort",
+      "slug": "diu-fort",
+      "category": "Fort",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "district": "Diu",
+      "latitude": 20.7144,
+      "longitude": 70.9874,
+      "best_season": "Winter",
+      "description": "Portuguese-era coastal fort overlooking the Arabian Sea.",
+      "full_description": "Portuguese-era coastal fort overlooking the Arabian Sea. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.5,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1599661046827-dacde6976549?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Devka Beach",
+      "slug": "devka-beach",
+      "category": "Beach",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "district": "Daman",
+      "latitude": 20.4326,
+      "longitude": 72.8354,
+      "best_season": "Winter",
+      "description": "Popular coastal promenade and beach in Daman.",
+      "full_description": "Popular coastal promenade and beach in Daman. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.6,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "India Gate",
+      "slug": "india-gate",
+      "category": "Landmark",
+      "state": "Delhi",
+      "district": "New Delhi",
+      "latitude": 28.6129,
+      "longitude": 77.2295,
+      "best_season": "Winter",
+      "description": "National war memorial and ceremonial landmark.",
+      "full_description": "National war memorial and ceremonial landmark. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.7,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Red Fort",
+      "slug": "red-fort",
+      "category": "Fort",
+      "state": "Delhi",
+      "district": "Central Delhi",
+      "latitude": 28.6562,
+      "longitude": 77.241,
+      "best_season": "Winter",
+      "description": "UNESCO-listed Mughal fort complex.",
+      "full_description": "UNESCO-listed Mughal fort complex. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.8,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1599661046827-dacde6976549?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Dal Lake",
+      "slug": "dal-lake",
+      "category": "Lake",
+      "state": "Jammu and Kashmir",
+      "district": "Srinagar",
+      "latitude": 34.1106,
+      "longitude": 74.8683,
+      "best_season": "Summer",
+      "description": "Scenic lake known for shikaras and houseboats.",
+      "full_description": "Scenic lake known for shikaras and houseboats. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.4,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Gulmarg",
+      "slug": "gulmarg",
+      "category": "Hill Station",
+      "state": "Jammu and Kashmir",
+      "district": "Baramulla",
+      "latitude": 34.0484,
+      "longitude": 74.3805,
+      "best_season": "All year",
+      "description": "Mountain destination for snow sports and gondola rides.",
+      "full_description": "Mountain destination for snow sports and gondola rides. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.5,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Pangong Lake",
+      "slug": "pangong-lake",
+      "category": "Lake",
+      "state": "Ladakh",
+      "district": "Leh",
+      "latitude": 33.7595,
+      "longitude": 78.6674,
+      "best_season": "Summer",
+      "description": "High-altitude lake known for changing blue shades.",
+      "full_description": "High-altitude lake known for changing blue shades. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.6,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Nubra Valley",
+      "slug": "nubra-valley",
+      "category": "Valley",
+      "state": "Ladakh",
+      "district": "Leh",
+      "latitude": 34.6863,
+      "longitude": 77.5673,
+      "best_season": "Summer",
+      "description": "Cold desert valley known for dunes, monasteries and camels.",
+      "full_description": "Cold desert valley known for dunes, monasteries and camels. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.7,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Agatti Island",
+      "slug": "agatti-island",
+      "category": "Island",
+      "state": "Lakshadweep",
+      "district": "Lakshadweep",
+      "latitude": 10.858,
+      "longitude": 72.193,
+      "best_season": "Winter",
+      "description": "Coral island known for lagoons and water activities.",
+      "full_description": "Coral island known for lagoons and water activities. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.8,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Bangaram Island",
+      "slug": "bangaram-island",
+      "category": "Island",
+      "state": "Lakshadweep",
+      "district": "Lakshadweep",
+      "latitude": 10.94,
+      "longitude": 72.287,
+      "best_season": "Winter",
+      "description": "Remote tropical island with clear lagoons.",
+      "full_description": "Remote tropical island with clear lagoons. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.4,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Promenade Beach",
+      "slug": "promenade-beach",
+      "category": "Beach",
+      "state": "Puducherry",
+      "district": "Puducherry",
+      "latitude": 11.934,
+      "longitude": 79.8354,
+      "best_season": "Winter",
+      "description": "Seafront promenade beside the French Quarter.",
+      "full_description": "Seafront promenade beside the French Quarter. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.5,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Auroville",
+      "slug": "auroville",
+      "category": "Spiritual",
+      "state": "Puducherry",
+      "district": "Puducherry",
+      "latitude": 12.007,
+      "longitude": 79.8106,
+      "best_season": "Winter",
+      "description": "International township centred on community and sustainability.",
+      "full_description": "International township centred on community and sustainability. Discover nearby stays, transport, restaurants and local guides before travelling.",
+      "rating": 4.6,
+      "entry_fee": 0,
+      "visit_hours": 4,
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=82",
+      "highlights": [
+        "Local culture",
+        "Photography",
+        "Nearby stays"
+      ],
+      "tips": [
+        "Confirm local timings before visiting",
+        "Carry valid identification",
+        "Respect local rules and customs"
+      ]
+    }
+  ]
+}

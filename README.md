@@ -1,19 +1,15 @@
-# Explore India Production Portal
+# Explore India production UI
 
-Static frontend connected to Supabase.
+Public page: `index.html`  
+Private/separate owner listing page: `business-portal.html`
 
-## Pages
-- `index.html` destinations and advanced filters
-- `listings.html` resorts, villas and businesses
-- `business-portal.html` authentication and listing submission
+## Backend
+1. Run `supabase/india-national-seed.sql` in Supabase SQL Editor.
+2. Open Supabase → Project Settings → API.
+3. Copy the public `anon` key into `config.js`.
+4. Never put the service-role key in frontend code.
 
-## Local run
-```bash
-python -m http.server 8080
-```
+The app loads published destinations from Supabase first and falls back to `data/india-destinations.json`.
 
 ## Deploy
-Import the repository into Vercel with framework preset **Other** and leave build command empty.
-
-## Security
-The browser uses only the Supabase publishable key. Never put Razorpay, Supabase service-role or other secret keys in frontend files. Payment verification must be implemented with a secure server or Supabase Edge Function.
+Replace the files in the repository and push to `main`; Vercel redeploys automatically.
