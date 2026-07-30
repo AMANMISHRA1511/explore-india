@@ -1,0 +1,24 @@
+{
+  "name": "explore-india-production",
+  "version": "1.0.0",
+  "description": "Static frontend connected to Supabase.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMANMISHRA1511/explore-india.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AMANMISHRA1511/explore-india/issues"
+  },
+  "homepage": "https://github.com/AMANMISHRA1511/explore-india#readme",
+  "devDependencies": {
+    "supabase": "^2.110.0"
+  }
+}
